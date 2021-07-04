@@ -1,0 +1,20 @@
+Perceptron test instance #1 (Pattern-by-pattern learning).
+----------------------------------------------------------
+           Exit flag:  1
+       Weight vector:  -0.70711     0.41421
+Number of iterations:  4
+Perceptron test instance #1 (Batch learning).
+---------------------------------------------
+           Exit flag:  1
+       Weight vector:  -1.4142      1.1213
+Number of iterations:  6
+Perceptron test instance #2 (Pattern-by-pattern learning).
+----------------------------------------------------------
+           Exit flag:  1
+       Weight vector:  0    -0.29289
+Number of iterations:  6
+Perceptron test instance #2 (Batch learning).
+---------------------------------------------
+           Exit flag:  0
+       Weight vector:  -0.70711    -0.29289
+Number of iterations:  10

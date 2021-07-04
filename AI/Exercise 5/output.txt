@@ -1,0 +1,82 @@
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'quadprogipc_min_found','CSHelpWindow');">Minimum found that satisfies the constraints</a>.
+
+Optimization completed because the objective function is non-decreasing in 
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'quadprog_feasible_direction','CSHelpWindow');">feasible directions</a>, to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a>,
+and constraints are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('ipqpcommon',1.000000e+00,true,true,'quadprog',6.938894e-17,'default',1.000000e-08,1.103513e-12,'default',1.000000e-08,4.440892e-16,'default',1.000000e-08);">stopping criteria details</a>>
+
+Test instance #1.
+-----------------
+Weight vector w = 
+    0.7071   -0.7071
+
+Distance d = 
+    0.3536
+
+Margin = 
+    0.3536
+
+Distances = 
+    0.3536
+   -0.3536
+    0.3536
+   -0.3536
+
+Lagrange multipliers = 
+    3.0000
+    1.0000
+    1.0000
+    3.0000
+
+Support vectors = 
+     1     1
+     0     1
+     2     2
+     1     2
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'quadprog_nonconvex','CSHelpWindow');">The problem is non-convex</a>.
+
+Test instance #2.
+-----------------
+No solution found.
+ 
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'quadprogipc_min_found','CSHelpWindow');">Minimum found that satisfies the constraints</a>.
+
+Optimization completed because the objective function is non-decreasing in 
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'quadprog_feasible_direction','CSHelpWindow');">feasible directions</a>, to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'function_tolerance','CSHelpWindow');">function tolerance</a>,
+and constraints are satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('ipqpcommon',1.000000e+00,true,true,'quadprog',1.734723e-16,'default',1.000000e-08,1.484289e-15,'default',1.000000e-08,2.220446e-16,'default',1.000000e-08);">stopping criteria details</a>>
+
+Test instance #3.
+-----------------
+Weight vector w = 
+    0.8321   -0.5547
+
+Distance d = 
+    0.1387
+
+Margin = 
+    0.4160
+
+Distances = 
+    0.4160
+   -0.4160
+    0.6934
+   -0.4160
+
+Lagrange multipliers = 
+    2.8889
+    2.0000
+    0.0000
+    0.8889
+
+Support vectors = 
+    1.0000    1.0000
+         0    1.0000
+    1.0000    2.5000
+
